@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://theatrekid33.github.io/spacegame/](https://theatrekid33.github.io/spacegame/)
+> Open this page at [https://theaterkid33.github.io/spacegame/](https://theaterkid33.github.io/spacegame/)
 
 ## Use as Extension
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/theatrekid33/spacegame** and import
+* search for **https://github.com/theaterkid33/spacegame** and import
 
 ## Edit this project
 
@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/theatrekid33/spacegame** and click import
+* paste **https://github.com/theaterkid33/spacegame** and click import
 
 #### Metadata (used for search, rendering)
 
